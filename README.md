@@ -1,0 +1,2 @@
+This capstone project focuses on analyzing traffic data to uncover patterns, trends, and insights that can help in making informed decisions for traffic management and planning. The project involves data cleaning, exploratory data analysis (EDA), and predictive modeling using various machine learning techniques.
+The goal of this project is to analyze traffic data to identify key factors influencing traffic congestion and to develop predictive models that can forecast traffic patterns. This can be useful for city planners, traffic management authorities, and commuters.
